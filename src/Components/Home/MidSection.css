@@ -1,0 +1,29 @@
+.first-image {
+    width: 100%;
+    height: 335px;
+    object-fit: cover;
+}
+
+.second-image {
+    width: 100%;
+    height: 335px;
+    object-fit: cover;
+}
+
+.midsection-component {
+    display: flex;
+}
+
+#wrapper {
+    display: flex;
+    gap: 8px;
+    margin-top: 6px;
+    justify-content: space-between;
+}
+
+#third-image {
+    margin-top: 6px;
+    width: 100%;
+    height: 335px;
+    object-fit: cover;
+}

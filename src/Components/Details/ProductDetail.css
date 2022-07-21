@@ -1,0 +1,23 @@
+.offer-text {
+    font-size: 14px;
+    vertical-align: baseline;
+}
+
+.offer-text>p {
+    margin-top: 10px;
+}
+
+.offer-list {
+    font-weight: 450;
+    margin-top: 8px;
+}
+
+#badge {
+    margin-right: 8px;
+    color: #00CC00;
+    font-size: 15px;
+}
+
+#table {
+    margin-top: 10px;
+}

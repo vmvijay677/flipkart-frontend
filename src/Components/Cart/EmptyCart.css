@@ -1,0 +1,30 @@
+.empty-component {
+    width: 90%;
+    height: 75vh;
+    background: #fff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.empty-container {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.empty-image {
+    width: 20%;
+    object-fit: cover;
+}
+
+.empty-mycart {
+    padding: 20px;
+}
+
+.empty-container>p {
+    font-size: 22px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}

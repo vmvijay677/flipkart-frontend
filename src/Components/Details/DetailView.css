@@ -1,0 +1,54 @@
+.detail-component {
+    margin-top: 5px;
+    background: #ffff;
+}
+
+.detail-flex {
+    display: flex;
+}
+
+.right-container {
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.product-ratings {
+    color: #878787;
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+
+.fassured {
+    width: 77px;
+    margin-top: 2px;
+    margin-left: 15px;
+}
+
+.product-price {
+    font-size: 28px;
+    margin-right: 15px;
+    font-weight: 600;
+}
+
+.product-mrp {
+    color: #878787;
+    margin-right: 15px;
+    font-weight: 500;
+}
+
+.product-discount {
+    color: #388E3C;
+    font-weight: 500;
+}
+
+.navbar-component {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 90px 0px 90px !important;
+}
+
+.nav-text {
+    display: flex;
+    align-items: flex-start;
+    cursor: pointer;
+}

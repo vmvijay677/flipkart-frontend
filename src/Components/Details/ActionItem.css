@@ -1,0 +1,30 @@
+.left-container {
+    width: 350px;
+    padding: 0px 0 0 80px;
+}
+
+.product-image {
+    margin: 20px 0px 20px 0px;
+    height: auto;
+    width: 350px;
+    object-fit: cover;
+    background-color: white
+}
+
+#add-to-cart {
+    width: 170px;
+    border-radius: 2px;
+    height: 50px;
+    color: #FFF;
+    margin-left: 0px;
+    margin-right: 10px;
+    background: #ff9f00;
+}
+
+#buy-now {
+    width: 170px;
+    border-radius: 2px;
+    height: 50px;
+    color: #FFF;
+    background: #fb641b;
+}

@@ -1,0 +1,16 @@
+.profile-name {
+    margin-left: 55px;
+    margin-right: 40px;
+    cursor: pointer;
+    color: yellow;
+}
+
+#profile-menu {
+    margin-top: 5px;
+}
+
+.profile-logout {
+    font-size: 14px;
+    margin-left: 10px;
+    font-weight: 500;
+}

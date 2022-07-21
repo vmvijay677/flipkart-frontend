@@ -1,0 +1,24 @@
+.nav-component {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 90px 0 90px !important;
+}
+
+.nav-image {
+    width: 65px;
+    height: 65px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-text {
+    font-size: 14px;
+    font-weight: 600;
+    font-family: inherit;
+}
+
+.nav-padding {
+    padding: 12px 8px;
+    text-align: center
+}

@@ -1,0 +1,29 @@
+.SearchContainer {
+    border-radius: 2px;
+    margin-left: 18px;
+    margin-right: 200px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+}
+
+.InputSearchBase {
+    font-size: unset;
+    width: 100%;
+    padding-left: 15px;
+}
+
+.SearchIconWrapper {
+    margin-left: auto;
+    padding: 5px;
+    display: flex;
+    color: blue;
+    cursor: pointer;
+}
+
+#search-list {
+    position: absolute;
+    color: #000;
+    background: #FFFFFF;
+    margin-top: 37px;
+}

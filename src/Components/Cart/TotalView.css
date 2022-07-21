@@ -1,0 +1,51 @@
+.totalview-component {
+    background-color: white;
+    width: 370px;
+    border-radius: 0px;
+    overflow: hidden;
+    margin-top: 10px;
+    box-shadow: rgb(0 0 0 / 24%) 0px 0px 3px;
+}
+
+.totalview-header {
+    padding: 15px 24px;
+    background: #fff;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.totalview-heading {
+    color: #878787;
+    font-weight: 500;
+}
+
+.totalview-container {
+    padding: 15px 24px;
+}
+
+.totalview-container>p {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.price-details {
+    float: right;
+}
+
+h3 {
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.total-amount {
+    font-size: 18px;
+    font-weight: 600;
+    border-top: 1px dashed #e0e0e0;
+    padding: 20px 0;
+    border-bottom: 1px dashed #e0e0e0;
+}
+
+.price-discount {
+    font-size: 18px;
+    color: green;
+    font-weight: 600;
+}

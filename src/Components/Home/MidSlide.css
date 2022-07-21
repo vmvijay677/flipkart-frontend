@@ -1,0 +1,23 @@
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.midslide-component {
+    display: flex;
+    align-items: center;
+}
+
+.left-component {
+    width: 84%;
+}
+
+.right-component {
+    background: #ffffff;
+    width: 17%;
+    padding: 8px 5px 12px 5px;
+    margin-left: 5px;
+    text-align: center;
+    height: 300px;
+    margin-top: 5px;
+}
