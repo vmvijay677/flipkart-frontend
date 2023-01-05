@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'https://flipkartclonebyvignesh.herokuapp.com';
+const url = 'https://flipkart-backend-ten.vercel.app';
 
 export const authenticateSignup = async (data) => {
     try {

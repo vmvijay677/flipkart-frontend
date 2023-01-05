@@ -1,7 +1,7 @@
 import * as actionTypes from '../Constants/CartConstants';
 import axios from 'axios';
 
-const URL = "https://flipkartclonebyvignesh.herokuapp.com";
+const URL = "https://flipkart-backend-ten.vercel.app";
 
 export const addToCart = (id, quantity) => async (dispatch) => {
     try {
